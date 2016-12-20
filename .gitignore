@@ -1,5 +1,5 @@
 # folder logs
 logs/
-
+.idea/
 # txt files
 docs/*.txt
